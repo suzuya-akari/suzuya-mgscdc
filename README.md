@@ -1,6 +1,8 @@
 # suzuya-mgscdc
 Suzuya Akari's Metal Gear Solid Codec Simulator inside a browser.
 
+Showcase: https://youtu.be/tpH_z5fKLRs?si=YR11fATD4O2GG_2P
+
 # MGSCDC  
 is a project that bring MGS Classic codec into a browser, included with full user generated answer.
 
