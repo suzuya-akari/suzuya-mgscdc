@@ -11,6 +11,10 @@ https://suzuya-akari.github.io/suzuya-mgscdc/
 
 # What's new in this repo
 
-Update 8.2 is out, i don't patch something then release it. I usually will patch every things possible and push out update. As always you can either download the HTML to play it locally or run using browser.
+Update 8.2 is out, i don't patch something then release it. I usually will patch every things possible and push out update. As always you can either download the HTML to play it locally or run using browser. 
+
+The new update now includes fetish stuffs and you can date Meryl and Otacon, UI Revamped.
+
+Everything is remastered to be accurate to the original game
 
 MGS4 and MGS3, PeaceWalker Codec got remastered to looks accurate to the original game.
